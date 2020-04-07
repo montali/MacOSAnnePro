@@ -15,6 +15,7 @@ There are just two layouts right now. I substituted the CMD-Option-CTRL to mimic
 ### MacOS-intl
 
 Same as the previous one, but I changed the ESC to work as the FN1 layout by default. Sorry to the VIMmers, but I need accents when writing in Italian.
+
 ![default](./res/MacOS-intl-def.png)
 ![FN1](./res/MacOS-intl-F1.png)
 ![FN2](./res/MacOS-intl-F2.png)
@@ -29,7 +30,7 @@ This layout shows the fingers to be used when touchtyping.
 ### Letters vs. Specials
 
 This layout highlights the letters, special chars and function keys. Not that it is useful, but I liked how it looked.
-![lettersvsspecials](./res/Lettersvsspecials.png)
+![lettersvsspecials](./res/LettersvsSpecials.png)
 
 ## Contributing
 
